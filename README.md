@@ -5,5 +5,6 @@
 * The slider adjusts how fast the picture fades back when shaking the phone
 * You can change the background from black to white with the icon button
 * The switch will turn on/off vibrations
+
  ![](demo.gif)
  
